@@ -1,1 +1,1 @@
-Practing Python with mini projects
+I’m learning Python better by doing small projects. These projects help me understand how Python works. I’m solving real problems and making little programs. This helps me learn how to fix mistakes and make things better. Each project I finish makes me feel more confident and helps me use Python for different things. It’s like a fun and useful way to learn.
