@@ -10,7 +10,7 @@ score = 0
 points = (score / 10) * 100
 
 answer = input("What does CPU stand for? ")
-if answer.lower() == "central processing unit":
+if answer.lower() == "central processing unit" :
     print('Correct answer')
     score += 1
 else: 
