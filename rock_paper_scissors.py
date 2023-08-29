@@ -15,7 +15,9 @@ while True:
 		continue
 
 	random_number = random.randint(0, 2)
-	# rock is 0, paper is 1, scissors is 2
+	# rock is 0
+    # paper is 1
+    # scissors is 2
 	comp_pick = options[random_number]
 	print("Computer picked", comp_pick + ".")
 
